@@ -1,14 +1,13 @@
-# Lemonade
+# LEMONADE
 
-## Ingredients
+## INGREDIENTS:
+
 - Lemons
 - Water
 - Honey
 - Mint
 - Ice
-
-
-## How to prepare
+## HOW TO PREPARE:
 
 1. Put some ice in a glass.
 2. Squeeze the lemons to obtain lemon juice.

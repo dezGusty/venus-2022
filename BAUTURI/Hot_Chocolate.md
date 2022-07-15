@@ -1,13 +1,13 @@
-# Hot Chocolate
+# HOT CHOCOLATE
 
-## Ingrediente:
+## INGREDIENTS:
 
-* 100 ml milk
-* 10 g sugar
-* 25 g cocoa
-* 50 g chocolate
+- 100 ml milk
+- 10 g sugar
+- 25 g cocoa
+- 50 g chocolate
 
-## How to prepare:
+## HOW TO PREPARE:
 
 1. Place the milk of your choice in a **saucepan** over **medium-low** heat. 
 1. Whisk in cocoa powder and sugar, and **heat until warm.**
