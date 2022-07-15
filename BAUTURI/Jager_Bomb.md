@@ -3,7 +3,7 @@
 ## Ingredients:
 
 * 40 ml Jägermeister Liqueur
-* 1 can (~240ml) Red Bull
+* half a can (~240ml) Red Bull energy drink
 
 ## How to prepare:
 
