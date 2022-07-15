@@ -15,4 +15,4 @@
 2. Fluffy pancakes:
 3. Pasta Carbonnara:
 4. Pizza :
-5. Stewed Cabbage:
+5. Stewed Cabbage:[Stewed Cabbage](./MANCARE/Stewed_Cabbage.md)
