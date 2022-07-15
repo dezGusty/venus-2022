@@ -1,6 +1,5 @@
-# Pizza
-
-**Ingredients**
+# PIZZA
+## INGREDIENTS:
 
 *Dough*
 - 800g 00-Tipo flour
@@ -17,7 +16,7 @@
 - fresh basil
 - additional extra virgin olive oil for topping
 
-**Instructions**
+## HOW TO PREPARE:
 
 *Dough*
 1. Heat water to 95F. 
