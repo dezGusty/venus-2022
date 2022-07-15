@@ -1,4 +1,7 @@
 # PIZZA
+
+![poza](./../PICS/pizza1.jpg)
+
 ## INGREDIENTS:
 
 *Dough*

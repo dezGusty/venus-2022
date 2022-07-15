@@ -1,12 +1,13 @@
 # MOHITO
 
+![image](/PICS/mohito.jpg)
 ## Ingredients
 * Fresh mint
 * White rum 
 * Fresh lime juice
 * Simple syrup / Sugar
 * Club soda or sparkling water
-=======
+
 ## INGREDIENTS:
 
 - Fresh mint
