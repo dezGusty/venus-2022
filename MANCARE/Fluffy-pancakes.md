@@ -1,4 +1,5 @@
 # Fluffy pancakes
+![poza](./../PICS/fluffy-pancakes.jpeg)
 * 500gr white flour
 * 50gr baking powder
 * 4 medium eggs
