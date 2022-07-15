@@ -11,7 +11,7 @@
 
 ## MACARURI
 
-1. Chicken breasts:
+1. Chicken breasts: [Chicken Breasts](./MANCARE/Chicken%20breasts.md)
 2. Fluffy pancakes:
 3. Pasta Carbonnara:
 4. Pizza : [Pizza](./MANCARE/pizza.md)
