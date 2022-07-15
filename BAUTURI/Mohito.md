@@ -1,7 +1,6 @@
 # MOHITO
 
-<<<<<<< HEAD
-!(D:\Siemens\Homeworks\Git\Workshop\venus-2022\PICS "Mohito")
+(D:\Siemens\Homeworks\Git\Workshop\venus-2022\PICS\13232195-Mohito-drink "Mohito")
 
 ## Ingredients
 * Fresh mint
@@ -11,7 +10,6 @@
 * Club soda or sparkling water
 =======
 ## INGREDIENTS:
->>>>>>> 38520dd14955d258aa6177bef3e135826c126c8e
 
 - Fresh mint
 - White rum 
