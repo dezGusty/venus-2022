@@ -1,5 +1,7 @@
 # Mohito
 
+!(<https://img.freepik.com/free-photo/mohito-cocktail-with-lemon-mint_140725-989.jpg?w=2000> "Mohito")
+
 ## Ingredients
 * Fresh mint
 * White rum 
