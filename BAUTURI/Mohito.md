@@ -1,6 +1,6 @@
 # Mohito
 
-!(<https://img.freepik.com/free-photo/mohito-cocktail-with-lemon-mint_140725-989.jpg?w=2000> "Mohito")
+!(D:\Siemens\Homeworks\Git\Workshop\venus-2022\PICS "Mohito")
 
 ## Ingredients
 * Fresh mint
