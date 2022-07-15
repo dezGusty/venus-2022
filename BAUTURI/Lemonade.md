@@ -1,5 +1,6 @@
 # Lemonade
 
+![Lemonade] (PICS/lemonade.jpg)
 ## Ingredients
 - Lemons
 - Water
