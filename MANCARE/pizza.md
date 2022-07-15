@@ -1,6 +1,6 @@
 # Pizza
 
-![title](./PICS/pizza1.jpg)
+![title]((./../PICS/pizza1.jpg))
 
 **Ingredients**
 
