@@ -1,7 +1,7 @@
-# Limonada
+# Lemonade
 
-- Lamai
-- Apa
-- Miere
-- Menta
-- Gheata
+- Lemons
+- Water
+- Honey
+- Mint
+- Ice
