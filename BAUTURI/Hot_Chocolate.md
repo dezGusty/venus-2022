@@ -1,6 +1,7 @@
 # Hot Chocolate
 
-## Ingrediente:
+![poza](./../PICS/HotChocolatePicture.jpg)
+## Ingredients:
 
 * 100 ml milk
 * 10 g sugar
