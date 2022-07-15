@@ -1,6 +1,6 @@
 # MOHITO
 
-![image](venus-2022/PICS/mohito.jpg)
+![image](/dezGusty/venus-2022/blob/POZE/PICS/mohito.jpg)
 ## Ingredients
 * Fresh mint
 * White rum 
