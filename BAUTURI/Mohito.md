@@ -1,7 +1,5 @@
 # MOHITO
 
-(D:\Siemens\Homeworks\Git\Workshop\venus-2022\PICS\13232195-Mohito-drink "Mohito")
-
 ## Ingredients
 * Fresh mint
 * White rum 
