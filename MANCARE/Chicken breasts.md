@@ -1,6 +1,6 @@
 # PIZZA
 
-![photo](./../poze/Screenshot 2022-07-15 155458.png)
+![photo](./../PICS/Screenshot 2022-07-15 155458.png)
 
 ## INGREDIENTS:
 - 1/2 cup panki bread crumbs
