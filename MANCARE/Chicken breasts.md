@@ -2,6 +2,8 @@
 * 1/2 cup panki bread crumbs
 * teaspoon paprika
 
+![photo](./../poze/Screenshot 2022-07-15 155458.png)
+
 
 # How to prepare
 1. Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil and spray with cooking spray.
