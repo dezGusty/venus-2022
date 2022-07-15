@@ -16,8 +16,5 @@
 3. Pasta Carbonnara:
 <<<<<<< HEAD
 4. Pizza : [Pizza](./MANCARE/pizza.md)
-5. Stewed Cabbage:
-=======
-4. Pizza :
 5. Stewed Cabbage:[Stewed Cabbage](./MANCARE/Stewed_Cabbage.md)
->>>>>>> 4c0eb2e8b54b15c3aa3ee75cfc85bb29fe5f7cc8
+
