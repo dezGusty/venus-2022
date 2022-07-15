@@ -1,4 +1,5 @@
 #  Carbonara Pasta
+![poza](./../PICS/carbonara.jpg)
 
 ## Recipe
 - 1 tablespoon extra virgin olive oil or unsalted butter

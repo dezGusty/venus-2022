@@ -1,5 +1,7 @@
 # Pizza
 
+![title](./PICS/pizza1.jpg)
+
 **Ingredients**
 
 *Dough*
