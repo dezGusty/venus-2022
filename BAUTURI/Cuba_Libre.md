@@ -1,5 +1,5 @@
 # CUBA LIBRE 
-
+![poza](./../PICS/Asset_1019095.jpg)
 ## Ingredients:
 - 50 ml of RUM 
 - 125 ml of COLA (PEPSI-COLA , COCA-COLA) 
