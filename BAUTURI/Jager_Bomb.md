@@ -1,11 +1,11 @@
-# Jager Bomb
+# JJAGER BOMB
 
-## Ingredients:
+## INGREDIENTS:
 
 * 40 ml Jägermeister Liqueur
 * half a can (~240ml) Red Bull energy drink
 
-## How to prepare:
+## HOW TO PREPARE:
 
 1. Gather the ingredients. Fill a shot glass with Jägermeister. Pour half a can of Red Bull into a pint glass.
 1. Drop the shot glass into the taller glass.
