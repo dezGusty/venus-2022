@@ -1,5 +1,6 @@
 # MOHITO
 
+![image](/PICS/mohito.jpg)
 ## Ingredients
 * Fresh mint
 * White rum 

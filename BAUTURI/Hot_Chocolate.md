@@ -1,5 +1,7 @@
 # HOT CHOCOLATE
 
+![poza](./../PICS/HotChocolatePicture.jpg)
+
 ## INGREDIENTS:
 
 - 100 ml milk

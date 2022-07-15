@@ -1,5 +1,7 @@
 # JJAGER BOMB
 
+![poza jager bomb](./../PICS/jager-bomb.jpg)
+
 ## INGREDIENTS:
 
 * 40 ml Jägermeister Liqueur

@@ -1,4 +1,7 @@
 #  PASTA CARBONARA
+
+![poza](./../PICS/carbonara.jpg)
+
 ## INGREDIENTS:
 - 1 tablespoon extra virgin olive oil or unsalted butter
 - 1/2 pound pancetta or thick cut bacon, diced
@@ -7,6 +10,7 @@
 - 1 cup grated Parmesan or pecorino cheese
 - 1 pound spaghetti (or bucatini or fettuccine)
 - salt and freshly ground black pepper to taste
+
 ## HOW TO PREPARE:
 
 1. Heat the pasta water:

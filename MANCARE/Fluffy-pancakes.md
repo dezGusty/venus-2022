@@ -1,4 +1,7 @@
 # FLUFFY PANCAKE
+
+![poza](./../PICS/fluffy-pancakes.jpeg)
+
 ## INGREDIENTS:
 - 500gr white flour
 - 50gr baking powder
@@ -7,6 +10,7 @@
 - 1 teaspoon salt
 - 1 teaspoon sugar
 - 1 teaspoon butter
+
 ## HOW TO PREPARE:
 1. Mix dry ingredients together
 2. Mix wet ingredients together

@@ -1,7 +1,8 @@
 # LEMONADE
 
-## INGREDIENTS:
+![Lemonade](./../PICS/lemonade.jpg)
 
+## INGREDIENTS:
 - Lemons
 - Water
 - Honey
