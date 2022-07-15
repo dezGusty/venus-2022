@@ -1,6 +1,5 @@
-#  Carbonara Pasta
-
-## Recipe
+#  PASTA CARBONARA
+## INGREDIENTS:
 - 1 tablespoon extra virgin olive oil or unsalted butter
 - 1/2 pound pancetta or thick cut bacon, diced
 - 1 to 2 garlic cloves, minced, about 1 teaspoon (optional)
@@ -8,8 +7,7 @@
 - 1 cup grated Parmesan or pecorino cheese
 - 1 pound spaghetti (or bucatini or fettuccine)
 - salt and freshly ground black pepper to taste
-
-## How to prepare
+## HOW TO PREPARE:
 
 1. Heat the pasta water:
     - Put a large pot of salted water on to boil (1 tablespoon salt for every 2 quarts of water.)
