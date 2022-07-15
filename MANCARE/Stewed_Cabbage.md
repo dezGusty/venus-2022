@@ -10,4 +10,4 @@
 2. Pour in tomatoes and season with salt and pepper to taste. Cover pan and cook over medium heat for 30 to 40 minutes, or until cabbage is tender.
 
 
-![alt text](https://github.com/dezGusty/venus-2022/blob/POZE/MANCARE/Stewed_Cabbage.md)
+![alt text](https://raw.githubusercontent.com/dezGusty/venus-2022/POZE/PICS/StewedCabbage.jpg)
