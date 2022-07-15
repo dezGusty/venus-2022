@@ -1,6 +1,7 @@
 # Pizza
 
 **Ingredients**
+
 *Dough*
 - 800g 00-Tipo flour
 - 512g water (64% hydration)
@@ -17,6 +18,7 @@
 - additional extra virgin olive oil for topping
 
 **Instructions**
+
 *Dough*
 1. Heat water to 95F. 
 2. Add instant yeast, stirring together, and let sit for 5 minutes at room temperature. 
@@ -29,7 +31,7 @@
 9. Punch all the air out of the dough. Divide dough into 5 even pieces (250 g each). Push out all the air and fold all the sides in before rolling into a taut ball seam side down. 
 10. Add to a proofing box (or rimmed baking sheet dusted with flour), cover, and let proof at room temperature for 3-4 hours. 
 
-*Instructions*
+*Sauce*
 1. Add tomatoes to a large bowl using a strainer, squeezing out the excess water. Add all the tomato flesh to a food processor along with garlic cloves, and extra virgin olive. 
 2. Process until extremely smooth and season to taste with salt and a pinch of sugar. 
 3. Blend together and pass through a fine-mesh sieve, pushing out as much pulp as possible into a container.
