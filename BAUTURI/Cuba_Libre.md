@@ -1,6 +1,6 @@
 # CUBA LIBRE 
 
-## RECEPIE
+## Ingredients:
 - 50 ml of RUM 
 - 125 ml of COLA (PEPSI-COLA , COCA-COLA) 
 - Half-Lime or Half a Lemon (by choosing) 
