@@ -14,7 +14,6 @@
 1. Chicken breasts:
 2. Fluffy pancakes:
 3. Pasta Carbonnara:
-<<<<<<< HEAD
 4. Pizza : [Pizza](./MANCARE/pizza.md)
 5. Stewed Cabbage:[Stewed Cabbage](./MANCARE/Stewed_Cabbage.md)
 
